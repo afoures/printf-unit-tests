@@ -1,0 +1,8 @@
+[test bla - -1 - [test %s %C] - l.13
+ - -1 - [test %C] - l.14
+[test bla 55296 - -1 - [test %s %d %C] - l.15
+[test y - -1 - [test %y %C] - l.16
+[test] - -1 - [test] - l.17
+[test2] - -1 - [test2] - l.18
+[test5] - -1 - [test5] - l.19
+[test0123456789] - -1 - [test0123456789] - l.20
