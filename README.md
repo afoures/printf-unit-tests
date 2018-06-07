@@ -7,7 +7,7 @@ I took [real_printf](https://github.com/MrJe/real_printf) created by [MrJe](http
 
 In your ft_printf repo
 ```sh
-git clone https://github.com/afoures/ftprintf-unit-tests
+git clone https://github.com/afoures/printf-unit-tests
 ```
 **DO NOT CHANGE THE NAME OF THE REPO OR THE SCRIPT MAY NOT WORK FOR ALL THE TESTS**
 
@@ -15,7 +15,7 @@ git clone https://github.com/afoures/ftprintf-unit-tests
 
 Run the script directly in your ft_printf repo
 ```sh
-sh ftprintf-unit-tests/unit-tests.sh (option)
+sh printf-unit-tests/printf-unit-tests.sh (option)
 ```
 
 You should know that :
