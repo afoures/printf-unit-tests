@@ -386,11 +386,11 @@ do
 		rm -f ${R_PATH}/color.diff
 	elif [ ${ARG} = "clean" ]
 	then
-		make fclean
 		rm -f $COLOR_FILE
 		rm -f ${M_PATH}/colorft.c-e
 		rm -f ${O_PATH}/*
 		rm -f ${R_PATH}/*ft.txt
 		rm -f ${R_PATH}/*.diff
+		make fclean
 	fi
 done

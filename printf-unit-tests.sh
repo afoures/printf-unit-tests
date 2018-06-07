@@ -13,7 +13,7 @@ PURPLE="\033[35m"
 CYAN="\033[36m"
 WHITE="\033[37m"
 
-T_PATH=unit-tests
+T_PATH=printf-unit-tests
 M_PATH=${T_PATH}/main
 O_PATH=${T_PATH}/out
 R_PATH=${T_PATH}/results
